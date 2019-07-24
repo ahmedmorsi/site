@@ -1,0 +1,85 @@
+body{
+    font-size: 19px;
+    background-color:beige;
+}
+.mo{
+    text-align: center;
+    border-style: dotted;
+    border-width: medium;
+    border-color: black;
+     border-left-width:inherit;
+    border-right-width:inherit;
+    background-image: url("https://vgcusf.club/wp-content/uploads/2018/03/background.jpg");
+    color: black;
+}
+.a{
+   text-align: center;
+    border-style: dotted;
+    border-width: medium;
+    border-color: black; 
+    border-left-width:inherit;
+    border-right-width:inherit;
+    background-image: url("https://vgcusf.club/wp-content/uploads/2018/03/background.jpg");
+    color: black;
+}
+p{
+    font-family: cursive;
+}
+#item{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50;
+}
+#researsh{
+    margin-top: 100px;
+    margin-bottom: 50;
+}
+#what{
+    margin-top: 100px;
+    margin-bottom: 50;
+}
+#contact{
+    margin-top: 100px;
+    margin-bottom: 50;
+}
+.a img{
+    float: right;
+    background-image: 100px ;
+    border-width: medium;
+    border-style: dotted;
+    background-image: 100px; 
+}
+.bro{
+    border-style: dotted;
+    border-width: thin;
+    border-left-width:inherit;
+    border-right-width:inherit;
+    text-align: center;
+    color: black;
+    background-image: url("https://vgcusf.club/wp-content/uploads/2018/03/background.jpg");
+}
+.links{
+    border-style: dotted;
+    border-width: medium;
+    border-left-width:inherit;
+    border-right-width:inherit;
+    text-align: left;
+    color: black;
+    background-image: url("https://vgcusf.club/wp-content/uploads/2018/03/background.jpg");
+}
+#v{
+    text-align: end;
+    color: red;
+     
+}
+.bro img{
+    text-align: center;
+}
+.login{
+    text-align: center;
+    border-style: dotted;
+    border-width: thin;
+    border-left-width:inherit;
+    border-right-width:inherit;
+    background-image: url("https://vgcusf.club/wp-content/uploads/2018/03/background.jpg")
+}
